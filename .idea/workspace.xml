@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="340fbed1-fd4f-4bd4-845d-de3e818c12b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasic/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasic/son.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -548,7 +546,7 @@
       <workItem from="1599638927823" duration="4423000" />
       <workItem from="1599643963481" duration="119000" />
       <workItem from="1599661358652" duration="11204000" />
-      <workItem from="1599699326420" duration="11374000" />
+      <workItem from="1599699326420" duration="13788000" />
     </task>
     <task id="LOCAL-00001" summary="修复-修复生成json时，同年不同地方时错误使用jsonarray接收参数">
       <created>1599711809850</created>
