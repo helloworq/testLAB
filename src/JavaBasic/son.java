@@ -22,31 +22,16 @@ public class son extends father {
         System.out.println(fatherSaying);
         System.out.println(fatherSay());
     }
-    /*JSONObject stack=new JSONObject();
-    stack.put("name",jsonArray.getJSONObject(i).getJSONObject("hcqfw").get("label").toString());
-    stack.put("value",jsonArray.getJSONObject(i).getJSONObject("jcz").get("value").toString());
-    JSONObject datas=new JSONObject();
-    datas.put("name",jsonArray.getJSONObject(i).getJSONObject("r").get("label").toString());
-    datas.put("stacks",stack);
-
-    JSONObject res=new JSONObject();
-    res.put("name",jsonArray.getJSONObject(i).getJSONObject("t").get("label").toString());
-    res.put("datas",datas);
-
-    jsonArrayres.add(res);*/
-    /*            JSONObject jsonObjectAll=new JSONObject();
-            jsonObjectAll.put("year",jsonArray.getJSONObject(i).getJSONObject("t").get("label").toString());
-            jsonObjectAll.put("provinceName",jsonArray.getJSONObject(i).getJSONObject("r").get("label").toString());
-            jsonObjectAll.put("hcqfwLable",jsonArray.getJSONObject(i).getJSONObject("hcqfw").get("label").toString());
-            jsonObjectAll.put("jczValue",jsonArray.getJSONObject(i).getJSONObject("jcz").get("value").toString());
-            jsonArrayres.add(jsonObjectAll);*/
     public static void main(String[] args) throws FileNotFoundException {
         String text=readFileContent("C:\\Users\\12733\\Desktop\\response_1599637349332.json");
+        System.out.println(handleJson(text));
+    }
+
+    public static String handleJson(String text){
         JSONObject jsonObject=JSONObject.parseObject(text);
         JSONArray jsonArray=jsonObject.getJSONObject("data").getJSONObject("data").getJSONArray("data");
         JSONArray jsonArrayres=new JSONArray();
         for (int i = 0; i < jsonArray.size(); i++) {
-            System.out.println(JSON.toJSONString(jsonArrayres));
             JSONObject jsonObjectprev=jsonArray.getJSONObject(i);
             String year=jsonObjectprev.getJSONObject("t").getString("label");
             String prov=jsonObjectprev.getJSONObject("r").getString("label");
@@ -83,8 +68,6 @@ public class son extends father {
                 JSONObject datasObj=new JSONObject();//加入datas成员
                 datasObj.put("name",prov);
                 datasObj.put("stacks",stack);
-                //JSONArray datas=new JSONArray();
-                //datas.add(datasObj);
 
                 Integer yearIndex=getYearIndex(jsonArrayres,year);
                 JSONObject jsonObjectres=jsonArrayres.getJSONObject(yearIndex);
@@ -108,7 +91,7 @@ public class son extends father {
                 jsonObjectres.getJSONArray("stacks").add(stack);
             }
         }
-        System.out.println(JSON.toJSONString(jsonArrayres));
+        return JSON.toJSONString(jsonArrayres);
     }
 
     public static Integer getYearIndex(JSONArray jsonArray,String year){
