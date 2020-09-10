@@ -1,0 +1,60 @@
+GET https://172.16.2.170
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://www.jxust.cn
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.bilibili.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-20T100939.403.html
+
+###
+
+GET https://www.jxust.cn
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET https://www.jxust.cn
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://www.zhihu.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-20T100903.200.html
+
+###
+
+GET http://www.baidu.com
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-20T100841.200.html
+
+###
+
+GET /80
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET /www.baidu.com
+Accept: */*
+Cache-Control: no-cache
+
+###
+
