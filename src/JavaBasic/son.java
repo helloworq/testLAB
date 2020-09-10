@@ -83,12 +83,12 @@ public class son extends father {
                 JSONObject datasObj=new JSONObject();//加入datas成员
                 datasObj.put("name",prov);
                 datasObj.put("stacks",stack);
-                JSONArray datas=new JSONArray();
-                datas.add(datasObj);
+                //JSONArray datas=new JSONArray();
+                //datas.add(datasObj);
 
                 Integer yearIndex=getYearIndex(jsonArrayres,year);
                 JSONObject jsonObjectres=jsonArrayres.getJSONObject(yearIndex);
-                jsonObjectres.getJSONArray("datas").add(datas);
+                jsonObjectres.getJSONArray("datas").add(datasObj);
 
             }
             else if (null!=getYearIndex(jsonArrayres,year)
