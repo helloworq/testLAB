@@ -1,3 +1,4 @@
+/*
 package MyIO;
 
 import HighConcurrence.simpleClient;
@@ -25,3 +26,4 @@ public class MyIORunner {
         //System.out.println(new GetWeiBoUserMainInfo().getUserMainInfo(uri));
     }
 }
+*/

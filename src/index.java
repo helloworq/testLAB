@@ -1,3 +1,4 @@
+/*
 import java.io.*;
 import java.util.*;
 import java.util.List;
@@ -11,7 +12,8 @@ import com.alibaba.fastjson.JSONObject;
 
 public class index {
     public static void main(String[] args) throws Exception {
-        /*
+        */
+/*
         TreeNode head=new TreeNode();
         TreeUntis treeUntis=new TreeUntis();
         treeUntis.initTree(head,4);
@@ -48,8 +50,10 @@ public class index {
         //document.save("C:\\Users\\12733\\Desktop\\test.pdf");
 
 
-         */
-        /*
+         *//*
+
+        */
+/*
         //新建打印机任务
         //document.getNumberOfPages();
         //document.getPage(1);
@@ -78,7 +82,8 @@ public class index {
         HashPrintRequestAttributeSet pars = new HashPrintRequestAttributeSet();
         pars.add(Sides.DUPLEX); //设置单双页
         printJob.print(pars);
-*/
+*//*
+
 
 
 
@@ -91,6 +96,7 @@ public class index {
         //}
 
 //connectPrinter.wToPdfChange("C:\\Users\\12733\\Desktop\\1 - 副本.doc");
+*/
 /*
         String path="C:\\Users\\12733\\Desktop\\1 - 副本.doc";
         System.out.println("开始打印");
@@ -118,7 +124,8 @@ public class index {
             ComThread.Release();
         }
 
-*/
+*//*
+
 
         String originFilePath = "C:\\Users\\12733\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
         //小程序，从Windows聚焦的目录里提取所有文件到指定目录下，并且加上.jpg后缀
@@ -166,6 +173,7 @@ public class index {
 
 }
 
+*/
 /*
 
     public static Paper getPaper() {
@@ -287,7 +295,9 @@ public class index {
 
         chart.getTitle().setFont(new Font("宋体", Font.PLAIN, 12));
 
- */
+ *//*
+
+*/
 /*
         FileOutputStream out = null;
         try {
@@ -301,7 +311,9 @@ public class index {
             }
         }
     }
-    */
+    *//*
+
+*/
 /*
     private static CategoryDataset getDataSet() {
         DefaultCategoryDataset ds = new DefaultCategoryDataset();
@@ -322,7 +334,9 @@ public class index {
         ds.addValue(500, "广州", "香蕉");
         return ds;
     }
-    */
+    *//*
+
+*/
 /*
 
 
@@ -350,7 +364,7 @@ public class index {
         out.close();
     }
 
-    */
+    *//*
 
 
 
@@ -411,6 +425,8 @@ public class index {
 
 
 
+
+*/
 /**
 
 
@@ -464,10 +480,12 @@ public class index {
 
 
 
+*//*
+
+
+
+
+
+
+
 */
-
-
-
-
-
-

@@ -1,3 +1,4 @@
+/*
 package MyIO;
 
 import HighConcurrence.simpleClient;
@@ -9,7 +10,8 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 public class GetWeiBoUserMainInfo {
-    /**
+    */
+/**
      * 测试样例i
      *         URI uri=new URIBuilder("https://m.weibo.cn/api/container/getIndex")
      *                 .setParameter("uid","7022472393")
@@ -19,7 +21,8 @@ public class GetWeiBoUserMainInfo {
      * @param uri
      * @return
      * @throws URISyntaxException
-     */
+     *//*
+
     public String getUserMainInfo(URI uri) throws URISyntaxException {
         JSONObject jsonObject=JSONObject.parseObject(new simpleClient().sendGet(uri));
         JSONObject res=new JSONObject();
@@ -53,7 +56,9 @@ public class GetWeiBoUserMainInfo {
 
     //Unicode转中文方法
     private static String unicodeToCn(String unicode) {
-        /** 以 \ u 分割，因为java注释也能识别unicode，因此中间加了一个空格*/
+        */
+/** 以 \ u 分割，因为java注释也能识别unicode，因此中间加了一个空格*//*
+
         String[] strs = unicode.split("\\\\u");
         String returnStr = "";
         // 由于unicode字符串以 \ u 开头，因此分割出的第一个字符是""。
@@ -63,3 +68,4 @@ public class GetWeiBoUserMainInfo {
         return returnStr;
     }
 }
+*/

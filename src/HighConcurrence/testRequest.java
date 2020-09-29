@@ -1,3 +1,4 @@
+/*
 package HighConcurrence;
 
 import javax.print.DocFlavor;
@@ -10,19 +11,24 @@ public class testRequest {
         simpleClient simpleclient=new simpleClient();
         String msg=simpleclient.sendGet("https://weibo.com/u/7022472393");
         System.out.println(msg);
-        /*
+        */
+/*
         for (int i = 0; i < 1; i++) {
             //String response=simpleclient.sendPost("http://localhost:8081/getmsg?email=123@qq.com");
             String response=simpleclient
                     .sendGet("https://www.bilibili.com/video/BV1ns411c7jV?from=search&seid=15437915114933172293");
             System.out.println(response);
         }
-         */
+         *//*
+
          //System.out.println(simpleclient.getTranslationInfo("Welcome to the Oracle Database 10g Documentation Library. Here you can research new information, look up reference information, and search across the entire library."));
-        /**
+        */
+/**
          * 测试运行简单的多线程方法
-         */
+         *//*
+
         //simpleThread simpleThread=new simpleThread();
 
     }
 }
+*/

@@ -2,7 +2,110 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="340fbed1-fd4f-4bd4-845d-de3e818c12b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/AnnotionTest/AnnotionTestOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/AnnotionTest/AnnotionTestOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/AnnotionTest/Mytest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/AnnotionTest/Mytest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DItest/DImain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DItest/DImain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DItest/FuritSugarProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DItest/FuritSugarProducer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DItest/SugarConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DItest/SugarConsumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DataStructure/GetArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DataStructure/GetArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DataStructure/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DataStructure/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/DataStructure/TreeUntis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/DataStructure/TreeUntis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/FatherDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/FatherDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/GuiTest/Afather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/GuiTest/Afather.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/GuiTest/Bson.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/GuiTest/Bson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/GuiTest/runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/GuiTest/runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/HighConcurrence/simpleClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/HighConcurrence/simpleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/HighConcurrence/simpleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/HighConcurrence/testRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JDK8Stream/StringData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JDK8Stream/StringData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JDK8Stream/testStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JDK8Stream/testStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/POJO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/POJO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/ScriptInvoke.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/ScriptInvoke.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/JavaBasic/son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/KeyMointer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/DownLoad_My_Configs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/MyIO/DownLoad_My_Configs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/Download_links.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/MyIO/Download_links.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/Download_pic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/MyIO/Download_pic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/GetWeiBoUserMainInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/InitFolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/MyIORunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/RW_File.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/MyIO/RW_File.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/getURLMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/MyIO/getURLMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/MyIO/linkTOpic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/AddCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/AddCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/AddOperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/AddOperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/CalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/CalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DeleteCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DeleteCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DeleteOperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DeleteOperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DivCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DivCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DivOperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/DivOperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/ICalFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/ICalFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/MuiltCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/MuiltCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/MuiltOperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/Factory/MuiltOperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/PatternTestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/PatternTestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/AddCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/AddCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/CalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/CalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/DeleteCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/DeleteCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/DivCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/DivCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/IOperationFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/IOperationFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/MuiltCalOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/MuiltCalOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/OperationFactoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/SimpleFactory/OperationFactoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/LamdaRunner$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/LamdaRunner$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/LamdaRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/LamdaRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/MyRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Pattern/lamdatest/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/PicNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/PicNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/PicUtil/DrawDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/PicUtil/DrawDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Printer/connectPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Printer/printerParam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Printer/printerParam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuyDrink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuyDrink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuyDrinkProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuyDrinkProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuySomething.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Proxytest/BuySomething.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Proxytest/ProxyHandller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Proxytest/ProxyHandller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/Proxytest/ProxyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/Proxytest/ProxyRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/RedisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/RedisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/SnakeClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/SnakeClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/SnakeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/SonDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/SonDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/WordUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/WordUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboImp/ProviderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboImp/ProviderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboInterface/ProviderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboInterface/ProviderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/dubboDemo/dubboTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/index.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrintImplementA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrintImplementA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrintImplementB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TPrintImplementB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/interfaceTest/TTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/ContainerWithMostWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/FuzzySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/FuzzySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/LongestPalindromicSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/LongestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/MergeTwoSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/MergeTwoSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/MultiLevelJSON.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/MultiLevelJSON.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/leetcode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/normalFood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/testLAB/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testLAB/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HighConcurrence/simpleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HighConcurrence/simpleClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HighConcurrence/testRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HighConcurrence/testRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasic/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasic/son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/DownLoad_My_Configs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/DownLoad_My_Configs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/Download_links.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/Download_links.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/GetWeiBoUserMainInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/GetWeiBoUserMainInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/InitFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/InitFolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/MyIORunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/MyIORunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/getURLMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/getURLMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyIO/linkTOpic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyIO/linkTOpic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Printer/connectPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Printer/connectPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SnakeClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testLAB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/testLAB.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +126,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../testLAB\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,13 +165,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Pattern/Factory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JAVA/spire.doc-3.7.2.jar!/" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="android.dex.compiler" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -198,13 +304,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.son">
-    <configuration name="AnnotionTestOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnnotionTest.AnnotionTestOne" />
+  <component name="RunManager" selected="Application.getURLMessage">
+    <configuration name="NewRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK8Stream.NewRunner" />
       <module name="testLAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnnotionTest.*" />
+          <option name="PATTERN" value="JDK8Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LamdaRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern.lamdatest.LamdaRunner" />
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poi.Runner" />
       <module name="testLAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pattern.lamdatest.*" />
+          <option name="PATTERN" value="poi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScriptInvoke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasic.ScriptInvoke" />
+    <configuration name="getURLMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyIO.getURLMessage" />
       <module name="testLAB" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaBasic.*" />
+          <option name="PATTERN" value="MyIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.getURLMessage" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.NewRunner" />
         <item itemvalue="Application.son" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.AnnotionTestOne" />
-        <item itemvalue="Application.ScriptInvoke" />
-        <item itemvalue="Application.LamdaRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +652,37 @@
       <workItem from="1599638927823" duration="4423000" />
       <workItem from="1599643963481" duration="119000" />
       <workItem from="1599661358652" duration="11204000" />
-      <workItem from="1599699326420" duration="13788000" />
+      <workItem from="1599699326420" duration="14306000" />
+      <workItem from="1599726558970" duration="1949000" />
+      <workItem from="1599816235125" duration="2259000" />
+      <workItem from="1599887142433" duration="886000" />
+      <workItem from="1599986730811" duration="1020000" />
+      <workItem from="1599989227495" duration="1480000" />
+      <workItem from="1600047998818" duration="1674000" />
+      <workItem from="1600050326754" duration="2210000" />
+      <workItem from="1600412866040" duration="741000" />
+      <workItem from="1600667130500" duration="502000" />
+      <workItem from="1600753622777" duration="2791000" />
+      <workItem from="1600760042686" duration="92000" />
+      <workItem from="1600777535177" duration="5530000" />
+      <workItem from="1600822592168" duration="613000" />
+      <workItem from="1600824301638" duration="3048000" />
+      <workItem from="1600828645426" duration="263000" />
+      <workItem from="1600913107609" duration="7069000" />
+      <workItem from="1600922421116" duration="3294000" />
+      <workItem from="1600926584203" duration="287000" />
+      <workItem from="1600932510157" duration="2150000" />
+      <workItem from="1601009455817" duration="8421000" />
+      <workItem from="1601088059360" duration="15142000" />
+      <workItem from="1601168851162" duration="34000" />
+      <workItem from="1601199296645" duration="698000" />
+      <workItem from="1601255687023" duration="1230000" />
+      <workItem from="1601260691768" duration="7594000" />
+      <workItem from="1601281313403" duration="4466000" />
+      <workItem from="1601289099086" duration="8589000" />
+      <workItem from="1601341154632" duration="79000" />
+      <workItem from="1601341256676" duration="848000" />
+      <workItem from="1601349951910" duration="1291000" />
     </task>
     <task id="LOCAL-00001" summary="修复-修复生成json时，同年不同地方时错误使用jsonarray接收参数">
       <created>1599711809850</created>
@@ -566,7 +702,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -575,5 +713,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修复-修复生成json时，同年不同地方时错误使用jsonarray接收参数" />
     <option name="LAST_COMMIT_MESSAGE" value="修复-修复生成json时，同年不同地方时错误使用jsonarray接收参数" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/poi/Runner.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

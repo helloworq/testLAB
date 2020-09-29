@@ -1,3 +1,4 @@
+/*
 import com.sun.jna.platform.KeyboardUtils;
 import com.sun.xml.bind.v2.model.core.Adapter;
 
@@ -209,3 +210,4 @@ class normalFood{
     static Color FoodColor=Color.GREEN;
     static int awardGrades=1;//吃到后的奖励分数
 }
+*/

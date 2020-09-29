@@ -1,3 +1,4 @@
+/*
 package MyIO;
 
 
@@ -40,3 +41,4 @@ public class linkTOpic {
         return "图片下载完毕！";
     }
 }
+*/

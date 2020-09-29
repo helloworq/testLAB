@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://E:/【搜狐】孤独的美食家1-4季/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://E:/【搜狐】孤独的美食家1-4季/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="java" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -38,114 +27,6 @@
         <SOURCES>
           <root url="file://$MODULE_DIR$/src" />
         </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/commons-collections4-4.1.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/xmlbeans-2.6.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/fontbox-2.0.17 (1).jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JAVA/lib/jacob-1.19/jacob.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/spire.pdf.free-2.6.3.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/spire.doc.free-2.6.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/jcob/javax.activation-1.2.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -188,7 +69,17 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/test/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar!/" />
+          <root url="file://$MODULE_DIR$/lib/fastjson" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/lib/fastjson" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/jcob/javax.activation-1.2.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -197,7 +88,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/test/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/dom4j-2.1.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -205,35 +96,99 @@
     </orderEntry>
     <orderEntry type="module-library">
       <library>
-        <CLASSES />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/poi/poi-bin-3.17-20170915/poi-3.17/xmlbeans-2.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/commons-logging-1.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpcore-4.4.11.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-4.5.9-bin/httpcomponents-client-4.5.9/lib/httpclient-4.5.9.jar!/" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib" />
+        </CLASSES>
         <JAVADOC>
-          <root url="file://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/docs/apidocs" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/jacob-1.19/docs/api" />
         </JAVADOC>
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES />
-        <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/Desktop/test/dom4j-2.1.1-sources.jar!/" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-cache/src/main/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-cache/src/test/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-fluent/src/main/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-fluent/src/test/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-testing/src/main/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-testing/src/test/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-win/src/examples" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5-win/src/main/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5/src/main/java" />
+          <root url="file://$MODULE_DIR$/../JAVA/lib/httpcomponents-client-5.0-beta5-src/httpcomponents-client-5.0-beta5/httpclient5/src/test/java" />
         </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES />
-        <JAVADOC />
-        <SOURCES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar!/" />
-        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../JAVA/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../JAVA/lib" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://E:/迅雷下载/poi-bin-3.17-201701915/poi-3.17/poi-ooxml-3.17.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/iText7-Core-7.1.12-only-jars/com.lowagie.text-2.1.7.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -242,7 +197,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/test/dom4j-1.6.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/fontbox-2.0.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -251,37 +206,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../JAVA/lib/pdfbox" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../javaSE1.8.191/jdk8_191/lib/jacob.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/pdfbox-2.0.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -290,7 +215,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/test/itextpdf-5.5.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/pdfbox-tools-2.0.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -299,7 +224,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/httpclient-4.5.6.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/preflight-2.0.17.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -308,7 +233,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/fastjson-1.2.68.jar!/" />
+          <root url="jar://$MODULE_DIR$/../JAVA/lib/pdfbox/xmpbox-2.0.17.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../JAVA/spire.doc-3.7.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

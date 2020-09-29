@@ -2,8 +2,8 @@ package MyIO;
 
 public class DownLoad_My_Configs {
     //此类存储程序中所有需要的数据，例如本地存储地址以及相关的链接
-    public final static String httpGet_Header=
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36";
+    public final static String httpGet_Header="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36";
+
     public final static String zhihu_standard_picLinks=
             "https://pic3.zhimg.com/50/v2-4fd5bfe8b9094f011f7210358449df8a_hd.jpg";
     public final static String zhihu_standard_answerLinks=

@@ -1,7 +1,7 @@
+/*
 package Printer;
 
-import com.jacob.activeX.ActiveXComponent;
-import com.jacob.com.Dispatch;
+
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.printing.PDFPrintable;
 import org.apache.pdfbox.printing.Scaling;
@@ -13,13 +13,15 @@ import java.awt.print.*;
 import java.io.*;
 import java.net.Socket;
 import java.util.stream.*;
+*/
 /**
  *Date：2019-12-10
  * Author：zhoulei
  * tips:类里需要用到jcob.jar   pdfBox.jar
  *      其中的jcob还需要加一个jcob里的jacob-1.19-x64.dll文件
  *      放到jre或者jdk路径下的bin目录里
- */
+ *//*
+
 
 
 public class connectPrinter {
@@ -39,25 +41,29 @@ public class connectPrinter {
 
     //不允许以默认构造器创建对象
     private connectPrinter(){}
-    /**
+    */
+/**
      * Date：2019-12-10
      * Author：zhoulei
      * tips：只给出文件路径的情况下默认打A3格式，横向.
      *       后期可根据需求定制单张或多张打印
      * @param FilePath
-     */
+     *//*
+
     public connectPrinter(String FilePath){
         this.FilePath=FilePath;
         this.height=A3_HEIGHT;
         this.width=A3_WIDTH;
         this.direction=0;
     }
-    /**
+    */
+/**
      * Date：2019-12-10
      * Author：zhoulei
      * tips：给出文件路径和尺寸的情况下默认纵向打印
      * @param FilePath
-     */
+     *//*
+
     public connectPrinter(String FilePath,String Size){
         this.FilePath=FilePath;
         if(Size.equals("A3")){
@@ -70,12 +76,14 @@ public class connectPrinter {
         }
         this.direction=0;
     }
-    /**
+    */
+/**
      * Date：2019-12-10
      * Author：zhoulei
      * tips：参数完全定制
      * @param FilePath
-     */
+     *//*
+
     public connectPrinter(String FilePath,String Size,int Page_Direction){
         this.FilePath=FilePath;
         if(Size.equals("A3")){
@@ -90,13 +98,15 @@ public class connectPrinter {
     }
 
 
-    /**
+    */
+/**
      * Date：2019-12-10
      * Author：zhoulei
      * 工作类，根据传入的文件的后缀进行判断调用哪一个工具
      * 其他工具类设置为private不允许单独调用
      * @throws Exception
-     */
+     *//*
+
     public void print() throws Exception {
         if(FilePath==null) {
             System.out.println("请输入路径名!");
@@ -116,7 +126,9 @@ public class connectPrinter {
     }
 
 
-    /* 打印指定的文件 */
+    */
+/* 打印指定的文件 *//*
+
     private void printPDF(String filepath) throws Exception {
         PDDocument document =null;
         //创建文件对象
@@ -152,12 +164,14 @@ public class connectPrinter {
     }
 
 
-    /**
+    */
+/**
      * Date：2019-12-10
      * Author：zhoulei
      * 设置打印的纸张的数据
      * @return
-     */
+     *//*
+
     private Paper getPaper() {
         //1191*842 A3
         //横向，纵向打印
@@ -177,11 +191,13 @@ public class connectPrinter {
 
 
 
-    /**
+    */
+/**
      * Word转PDF工具，实现曲线打印Word文档的功能
      * 方法返回转换后生成的PDF文件路径
      * @param wordFile
-     */
+     *//*
+
     public static String wToPdfChange(String wordFile){
         //wordFile word 的路径  //pdfFile pdf 的路径
         //PDF_File_Path的路径名为word文件的路径名+ofPDFtype+.pdf
@@ -222,12 +238,14 @@ public class connectPrinter {
 
 
 
-    /**
+    */
+/**
      * 通过 IP+端口 连接打印机打印文件
      *
      * @param filePath
      * @throws Exception
-     */
+     *//*
+
     private void printPIC(String filePath) throws Exception {
         File file = new File(filePath); // 获取选择的文件
         Socket socket = new Socket(IP, 9100);
@@ -246,4 +264,4 @@ public class connectPrinter {
         socket.close();
         fis.close();
     }
-}
+}*/

@@ -5,8 +5,11 @@ import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
-
+@Deprecated
 public class getURLMessage {
+    public static void main(String[] args) {
+        System.out.println(getMessage("https://music.migu.cn/v3/music/album/1135563295?origin=7"));
+    }
     //获取目标链接的html数据
     public static String getMessage (String URL){
         String contents=null;

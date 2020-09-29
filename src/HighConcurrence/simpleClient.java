@@ -1,3 +1,4 @@
+/*
 package HighConcurrence;
 
 import MyIO.DownLoad_My_Configs;
@@ -12,7 +13,7 @@ import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 
 import java.net.URI;
-
+@Deprecated
 public class simpleClient {
     public String getTranslationInfo(String param){
         String contents=null;
@@ -78,3 +79,4 @@ public class simpleClient {
         return contents;
     }
 }
+*/
